@@ -1,0 +1,1 @@
+curl -X POST -d "grant_type=convert_token&client_id=256781344216-374n6lrhvtnrtl39s2u1lctsdmnm00q6.apps.googleusercontent.com&client_secret=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&backend=google-oauth2&token=ya29.a0ARrdaM_n9gvNsU9GASRPkYQToK43SR1Rd03NbPi_RfL…Ids-npo70TCSS1t4itLTldrdMKCYyeJQ3tjrKIuIpDoZBFY5g" http://localhost:8000/auth/convert-token
